@@ -13,8 +13,8 @@ public class palindromo {
 
     public static void main(String[] args) {
 
-        // boolean isPalindromo = validIsPalindromo("Ana lleva al oso la avellana");
-        boolean isPalindromo = validIsPalindromo("A la vibora vibora del amar");
+         boolean isPalindromo = validIsPalindromo("Ana lleva al oso la avellana");
+        // boolean isPalindromo = validIsPalindromo("A la vibora vibora del amar");
         System.out.println(isPalindromo ? "Es un palindromo! " : "No es un palindromo!");
 
     }
